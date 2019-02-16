@@ -1,6 +1,6 @@
 module "linode" {
   source           = "github.com/egee-irl/terraform-linode-instance.git"
-  authorized_keys  = ["${chomp(file(var.pub_key))}"]
+  authorized_keys  = ["${chomp(file("./id_rsa.pub"))}"]
   authorized_users = ["egee"]
   type             = "g6-nanode-1"                                       # https://developers.linode.com/api/v4#operation/getLinodeTypes
   region           = "us-central"
