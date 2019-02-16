@@ -14,7 +14,7 @@ and then
 if all looks good, run
 `terraform apply`
 
-In a a minute or so, you should have a working Linode instance that you can log into!
+After minute or two, you should have a working Linode instance that you can log into!
 
 When you are finished with this demo, you can tear it all down by running:
 
