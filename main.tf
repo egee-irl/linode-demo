@@ -6,6 +6,7 @@ module "linode" {
   region           = "us-central"
   label            = "demo"
   image            = "linode/ubuntu18.04"
+  root_pass        = "Terra4ormr0x!"
   stackscript_id   = "394412"
 }
 
