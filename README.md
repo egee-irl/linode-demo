@@ -1,4 +1,4 @@
-# linode-demo
+# terraform-linode-example
 
 Get your Linode API key/token from the Linode cloud manager and export it as an environment variable:
 
