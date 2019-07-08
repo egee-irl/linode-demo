@@ -1,5 +1,7 @@
 # terraform-linode-example
 
+[![Discord](https://discordapp.com/api/guilds/183740337976508416/widget.png?style=shield)](https://discord.gg/EMbcgR8)
+
 Get your Linode API key/token from the Linode cloud manager and export it as an environment variable:
 
 `export LINODE_TOKEN="really_long_string_of_jumbled_numbers_and_letters"`
