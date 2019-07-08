@@ -1,6 +1,6 @@
 # terraform-linode-example
 
-[![Youtube](https://img.shields.io/badge/Egee-Youtube-red.svg)](https://www.youtube.com/c/Egeeirl)
+[![Youtube](https://img.shields.io/badge/Egee-Youtube-e62117.svg)](https://www.youtube.com/c/Egeeirl)
 ![Twitter Follow](https://img.shields.io/twitter/follow/egee_irl.svg?style=social)
 
 Get your Linode API key/token from the Linode cloud manager and export it as an environment variable:
