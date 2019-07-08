@@ -1,6 +1,5 @@
 # terraform-linode-example
 
-[![Discord](https://discordapp.com/api/guilds/183740337976508416/widget.png?style=shield)](https://discord.gg/EMbcgR8)
 [![Youtube](https://img.shields.io/badge/Egee-Youtube-red.svg)](https://www.youtube.com/c/Egeeirl)
 ![Twitter Follow](https://img.shields.io/twitter/follow/egee_irl.svg?style=social)
 
